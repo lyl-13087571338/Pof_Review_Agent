@@ -1,0 +1,5 @@
+PyYAML
+openai
+PyMuPDF
+python-docx
+requests

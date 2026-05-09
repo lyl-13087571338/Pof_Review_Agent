@@ -1,0 +1,18 @@
+email:
+  address: "365425535@qq.com"
+  password: "ygtajxqxrhlabiea"
+  imap_server: "imap.qq.com"
+
+llm:
+  provider: "zhipu"
+  api_key: "2760a7b182154f66b19a1677c8febc95.W2v6uxEoIFRwfVe8"
+  api_base: "https://open.bigmodel.cn/api/paas/v4"
+  model: "GLM-4.7-Flash"
+
+paths:
+  download_folder: "./downloads"
+  review_folder: "./reviews"
+
+agent:
+  check_interval_seconds: 600
+  destination_folder: "~/Desktop"
